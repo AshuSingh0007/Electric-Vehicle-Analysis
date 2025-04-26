@@ -53,6 +53,4 @@ To run this project, ensure you have the following Python libraries installed:
 - scikit-learn
 - statsmodels
 
-You can install the required packages using the following command:
-```bash
-pip install -r requirements.txt
+
